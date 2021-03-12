@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(183, 203, 240);
+}
+body ::selection{
+    background-color: rgb(180, 211, 150);
+}
+.Heading{
+    font-size: 5vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.RandomWord{
+    text-align: center;
+    font-size: 3vw;
+    text-decoration: underline rgb(150, 150, 226) dotted;
+    text-overflow: clip;
+}
+.Button{
+   margin-left: 45vw;
+   width: 10vw;
+   height: 5vw;
+   background-color: rgb(195, 159, 228);
+   font-size: 2vw;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-style: italic;
+   text-shadow: 1px 1px rgb(255, 255, 255);
+}
+.NumberPick{
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    background-color: rgb(190, 213, 255);
+    width: 10vw;
+    height: 1vw;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+.lp{
+    position: absolute;
+    left: 5%;
+    top: 0%;  
+}
+.Check{
+    position: absolute;
+    left: 9%;
+    top: 10%;
+    width: 2vw;
+    height: 2vw;
+}
+.Checktext{
+    position: absolute;
+    left: 3%;
+    top: 9%;
+    font-size: 1vw;
+}
+
+.Check2{
+    position: absolute;
+    left: 9%;
+    top: 14.5%;
+    width: 2vw;
+    height: 2vw;
+}
+.Checktext2{
+    position: absolute;
+    left: 3%;
+    top: 13%;
+    font-size: 1vw;
+}
+
+.Check3{
+    position: absolute;
+    left: 9%;
+    top: 19%;
+    width: 2vw;
+    height: 2vw;
+}
+.Checktext3{
+    position: absolute;
+    left: 3%;
+    top: 18%;
+    font-size: 1vw;
+}
